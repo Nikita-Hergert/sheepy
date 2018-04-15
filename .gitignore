@@ -2,6 +2,9 @@
 *.apk
 *.ap_
 
+#Customize 
+.iead/
+
 # Files for the Dalvik VM
 *.dex
 
